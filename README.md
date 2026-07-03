@@ -16,7 +16,7 @@
 
 <div align="center">
     <h3>👋 hey, im haku.xyz </h3>
-    I'm <b>17</b> yr, i like to code and do silly stuff on the internet.
+    i like to code and do silly stuff on the internet.
     <h3>📚 languages / frameworks i know</h3>
     <a href="https://skillicons.dev">
         <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=css,html,js,lua,md,nodejs,tailwind&perline=13">
