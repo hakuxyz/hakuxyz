@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-    <h3>👋 hey, im haku.xyz </h3>
+    <h3>👋 hey, im haku</h3>
     i like to code and do silly stuff on the internet.
     <h3>📚 languages / frameworks i know</h3>
     <a href="https://skillicons.dev">
@@ -44,7 +44,7 @@
 <br/>
 
 <div align="center">
-    <h1>Links 🔗</h1>
+    <h1>links 🔗</h1>
     <div>
         <a href="https://ko-fi.com/h4ku">
             <picture width="45" height="45">
@@ -54,7 +54,7 @@
             </picture>
         </a>
         &nbsp;
-        <a href="https://discord.com/users/1301299089073242232">
+        <a href="https://discord.com/users/28853992967018905">
             <picture width="45" height="45">
                 <source srcset="https://cdn.simpleicons.org/discord/FFF" media="(prefers-color-scheme: dark)" />
                 <source srcset="https://cdn.simpleicons.org/discord/000" media="(prefers-color-scheme: light)" />
