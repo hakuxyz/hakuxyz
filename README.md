@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/019884f5-b43e-743e-ba6f-78ac5f4af089.json&style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7">
     </a>
     &nbsp;
-    <img src="https://img.shields.io/badge/age-17-cba6f7?style=for-the-badge&labelColor=1e1e2e">
+    <img src="https://img.shields.io/badge/age-18-cba6f7?style=for-the-badge&labelColor=1e1e2e">
 </div>
 
 <div align="center">
