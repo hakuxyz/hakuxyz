@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-    <a href="https://api.statusbadges.me/openspotify/1301299089073242232">
+    <a href="https://api.statusbadges.me/openspotify/288539929670189058">
         <img src="https://api.statusbadges.me/badge/spotify/853550207039832084?style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7">
     </a>
     &nbsp;
@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-    <a href="https://discord.com/users/1301299089073242232">
+    <a href="https://discord.com/users/288539929670189058">
         <img src="https://lanyard.cnrad.dev/api/1301299089073242232?bg=181825&borderRadius=12px&animated=true&idleMessage=i%27m%20not%20doing%20anything%20:P%20%3A%29&showDisplayName=true" />
     </a>
     &nbsp;
