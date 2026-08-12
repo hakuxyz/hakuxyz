@@ -32,7 +32,7 @@
 
 <div align="center">
     <a href="https://discord.com/users/288539929670189058">
-        <img src="https://lanyard.cnrad.dev/api/1301299089073242232?bg=181825&borderRadius=12px&animated=true&idleMessage=i%27m%20not%20doing%20anything%20:P%20%3A%29&showDisplayName=true" />
+        <img src="https://lanyard.cnrad.dev/api/288539929670189058?bg=181825&borderRadius=12px&animated=true&idleMessage=i%27m%20not%20doing%20anything%20:P%20%3A%29&showDisplayName=true" />
     </a>
     &nbsp;
     <a href="https://github.com/anuraghazra/github-readme-stats">
