@@ -14,6 +14,7 @@
 </div>
 
 <div align="center">
+    (this repo is gonna be edited soon, this is outdated)
     <h3>👋 hey, im haku</h3>
     i like to code and do silly stuff on the internet.
     <h3>📚 languages / frameworks i know</h3>
