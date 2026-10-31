@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/hakuxyz/hakuxyz/main/banner.gif" alt="profile banner" width="100%"/>
 
-<h1 align="center">Hi, I'm Alex</h1>
+<h1 align="center">Hi, I'm Haku</h1>
 <p align="center">I build digital things that feel intentional. Developer, designer, and perpetual learner.</p>
 
 <p align="center">
   <a href="https://github.com/hakuxyz"><img src="https://img.shields.io/badge/-GitHub-0e2a47?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
-  <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/-Email-0e2a47?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/-Email-0e2a47?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/></a>
   <a href="https://linkedin.com/in/hakuxyz"><img src="https://img.shields.io/badge/-LinkedIn-0e2a47?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
   <a href="https://twitter.com/hakuxyz"><img src="https://img.shields.io/badge/-Twitter-0e2a47?style=for-the-badge&logo=x&logoColor=ffffff" alt="Twitter"/></a>
 </p>
