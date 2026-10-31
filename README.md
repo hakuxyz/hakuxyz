@@ -1,13 +1,12 @@
-<img src="https://github.com/hakuxyz/hakuxyz/blob/main/banner.gif" alt="profile banner" width="100%"/>
+<img src="https://github.com/hakuxyz/hakuxyz/blob/main/1.gif" alt="profile banner" width="100%"/>
 
 <h1 align="center">Hi, I'm Haku</h1>
 <p align="center">I build digital things that feel intentional. Developer, designer, and perpetual learner.</p>
 
 <p align="center">
   <a href="https://github.com/hakuxyz"><img src="https://img.shields.io/badge/-GitHub-0e2a47?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/-Email-0e2a47?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/></a>
-  <a href="https://linkedin.com/in/hakuxyz"><img src="https://img.shields.io/badge/-LinkedIn-0e2a47?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/hakuxyz"><img src="https://img.shields.io/badge/-Twitter-0e2a47?style=for-the-badge&logo=x&logoColor=ffffff" alt="Twitter"/></a>
+  <a href="mailto:hakuu@national.shitposting.agency"><img src="https://img.shields.io/badge/-Email-0e2a47?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/></a>
+  <a href="https://twitter.com/syn_acc"><img src="https://img.shields.io/badge/-Twitter-0e2a47?style=for-the-badge&logo=x&logoColor=ffffff" alt="Twitter"/></a>
 </p>
 
 <details>
@@ -66,7 +65,7 @@ Currently exploring:
 <summary>Let's connect</summary>
 
 <p align="center">
-  I'm always open to good conversations, collaboration, and feedback. Reach out anytime — I'd love to hear from you.
+  I'm always open to good conversations, collaboration, and feedback. Reach out anytime -- I'd love to hear from you.
 </p>
 
 </details>
