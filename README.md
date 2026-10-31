@@ -1,4 +1,4 @@
-<img src="https://github.com/hakuxyz/hakuxyz/main/banner.gif" alt="profile banner" width="100%"/>
+<img src="https://github.com/hakuxyz/hakuxyz/blob/main/banner.gif" alt="profile banner" width="100%"/>
 
 <h1 align="center">Hi, I'm Haku</h1>
 <p align="center">I build digital things that feel intentional. Developer, designer, and perpetual learner.</p>
